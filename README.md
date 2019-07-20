@@ -26,8 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+-[link](http:/www.etwatch.cn)
+-[link](http:/www.grainwatch.cn)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/green512/green512.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
