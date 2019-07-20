@@ -24,8 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
--[etwatch](http:/www.etwatch.cn)
--[grainwatch](http:/www.grainwatch.cn)
+- [etwatch](http://www.etwatch.cn)
+- [grainwatch](http://wwww.grainwatch.cn)
+
 
 ### Jekyll Themes
 
