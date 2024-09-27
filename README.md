@@ -10,7 +10,7 @@ Artificial Neural NetworkCommunication EngineeringElectronic EngineeringInstrume
 Signal ProcessingElectronics and Communication EngineeringSignal, Image and Video ProcessingInformation and Communication TechnologyDetection
 
 ### links
-- [NWatch](http://www.nwatch.top/)
+- [NWatch](http://www.etwatch.cn:8085/index2.html)
 - [etwatch](http://www.etwatch.cn)
 - [grainwatch](http://210.72.26.39)
 
